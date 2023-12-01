@@ -1,0 +1,18 @@
+@media screen and (max-width:576px) {
+    .container {
+        width: 100%;
+        padding: 0 15px; }
+    .a_header a {
+        margin-left: 30px;
+    }
+    .left_part {
+        width: 300px;
+        margin-right: 0px;
+    }
+    .right_part {
+        width: 50px;
+    }
+    .second_screen {
+        width: 100%;
+    }
+    }
